@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClownfishMusicGUI", "ClownfishMusicGUI\ClownfishMusicGUI.csproj", "{4A41E152-C356-47AA-9820-13BD3E7B6A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A41E152-C356-47AA-9820-13BD3E7B6A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A41E152-C356-47AA-9820-13BD3E7B6A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A41E152-C356-47AA-9820-13BD3E7B6A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A41E152-C356-47AA-9820-13BD3E7B6A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50AF179-9B19-47FA-982A-96D1BE9F1D21}
+	EndGlobalSection
+EndGlobal
